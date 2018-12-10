@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.rf
+{
+    border:10px solid #4700b3;
+    padding:70px 40px; 
+    background: #C0C0C0;
+    width:600px;
+    border-radius:25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}   
+.hg
+{
+    margin-top: -50px;
+}
